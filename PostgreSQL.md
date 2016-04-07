@@ -58,6 +58,8 @@ SELECT id, name, attributes->'frob'
 ## Tables
 
 ### Common Data Types
+
+```
 INTEGER, BIGINT - signed 4/8 byte integers SERIAL
 BIGSERIAL - auto-incrementing integers
 UUID - universally unique identifier
@@ -73,6 +75,7 @@ TEXT - variable length string
 VARCHAR(x) - variable length up to x
 CHARACTER(x) - fixed x-length string
 JSONB - compressed JSON data
+```
 
 ### Create
 
