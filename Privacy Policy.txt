@@ -1,0 +1,9 @@
+Privacy Policy of Camera IR Remote
+
+GPS & Location
+
+The location provider is used to get weather forecast in the place where are you staying. It sends only longitude and latitude to https://openweathermap.org/ without any personal or private information.
+
+Microphone
+
+The application does not store any recorded audio. Microphone used only to get volume of ambient sound.
